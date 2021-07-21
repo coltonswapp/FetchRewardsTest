@@ -10,7 +10,8 @@ Thank you so much for checking out the project that I made for this coding exerc
 - An event that the user has favorited will appear with a small red heart.
 - An added piece of flair from myself was adding a little tag, denoting what type an event is ("NHL", or "CONCERT" etc).
 
-![](Images/TableSearchSG.gif) <img src = "Images/IMG_7097.PNG" width = "300">
+![](Images/TableSearchSG.gif) 
+<img src = "Images/IMG_7097.PNG" width = "300">
 
 - I also added some custom swipe actions for favoriting and unfavoriting events.
 <img src = "Images/IMG_7098.PNG" width = "200">
